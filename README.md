@@ -1,6 +1,6 @@
 # CookingPelicgcies
 Privacy Policy for Cooking Pelicgcies
-Last Updated: August 18, 2026
+Last Updated: October 01, 2026
 Introduction
 Cooking Pelicgcies (hereinafter referred to as "the Game," "we," "us," or "our") respects and protects the personal privacy of all users who use our Game services. This Privacy Policy is intended to clearly explain how we collect, use, share, and protect your personal information, particularly when you use the Game on iOS devices (iPhone/iPad).
 Please read this policy carefully before using the Game. By starting to use the Game, you signify that you have fully understood and agree to all terms of this policy.
@@ -36,7 +36,7 @@ Data Deletion: You have the right to request deletion of your personal data. Sin
 Withdrawal of Consent: You may change your consent for personalized advertising at any time. You can do so by navigating to iOS Settings → Privacy & Security → Tracking and disabling the "Allow Apps to Request to Track" toggle, or by disabling tracking for the Game individually.
 Opt-Out of Personalized Ads: You may enable the "Limit Ad Tracking" feature in your iOS device settings, or visit the opt-out pages of third-party advertising platforms (such as Google's Ad Settings).
 6. Children's Privacy Protection
-The Game is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and discover that we have inadvertently collected your child's information, please contact us promptly, and we will delete the relevant data immediately.
+The Game is not intended for children under the age of 12. We do not knowingly collect personal information from children. If you are a parent or guardian and discover that we have inadvertently collected your child's information, please contact us promptly, and we will delete the relevant data immediately.
 7. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. When material changes occur (such as changes in data processing methods or the addition of new third-party SDKs), we will notify you via in-game notices or through App Store updates. The latest version will be indicated by the "Last Updated" date at the top of this page.
 8. Contact Us
